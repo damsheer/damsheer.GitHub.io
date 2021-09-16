@@ -18,9 +18,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
+# - name: "About"
+#   link: "/researcher/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "Chendi_Li_Resume.pdf"
  - name: "Contact"
    link: "contact"
