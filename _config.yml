@@ -2,7 +2,9 @@ title: Researcher
 url: "https://mastli.github.io"
 baseurl: "/researcher"
 
-markdown: GFM
+remote_theme: ankitsultana/researcher@gem
+
+markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
