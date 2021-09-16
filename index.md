@@ -6,18 +6,21 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I'm a graduate student from Institute of Computing Technology, Chinese Academy of
+Sciences(ICT.CAS). I have some experience on optimizing algorithms on CPUs like ARMv8 and
+X86.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## News
+
+Recently, I'm doing some research on optimizing sparse matrix-matrix multiplication.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research interest is High performance computing, I like to optimizie any algorithm on GPUs and CPUs, I already have lots of experience on high performance computing.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+AutoTSMM:An Auto-tuning Framework for Building High-Performance Talland-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021)
 
 ## Typography
 
@@ -39,7 +42,3 @@ Here is a blockquote
 
 > To a great mind, nothing is little
 
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
