@@ -12,14 +12,13 @@ X86.
 
 ## News
 
-I found there are not many works on sparse matrix-matrix multiplication with fault-tolerant
+2021.9.18 I found there are not many works on sparse matrix-matrix multiplication with fault-tolerant
 
-Recently, I'm doing some research on optimizing sparse matrix-matrix multiplication.
+2021.9.16 Recently, I'm doing some research on optimizing sparse matrix-matrix multiplication.
 
-It seems like SC more likely to accept works about large-scale applications.
+2021.7.13 It seems like SC is more likely to accept works about large-scale applications.
 
-I finish my work ablohave a plan to submit a pull request to OpenBLAS, but I don't have enough time to test for all target architecture.
-
+I finished my works. and I have a plan about submitting a pull request to OpenBLAS, but I don't have enough time to test for all target architecture.
 
 ## Research Interest
 
