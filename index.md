@@ -12,7 +12,14 @@ X86.
 
 ## News
 
+I found there are not many works on sparse matrix-matrix multiplication with fault-tolerant
+
 Recently, I'm doing some research on optimizing sparse matrix-matrix multiplication.
+
+It seems like SC more likely to accept works about large-scale applications.
+
+I finish my work ablohave a plan to submit a pull request to OpenBLAS, but I don't have enough time to test for all target architecture.
+
 
 ## Research Interest
 
@@ -22,23 +29,7 @@ My research interest is High performance computing, I like to optimizie any algo
 
 AutoTSMM:An Auto-tuning Framework for Building High-Performance Talland-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021)
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
 ---
-
-Here is a blockquote
 
 > To a great mind, nothing is little
 
