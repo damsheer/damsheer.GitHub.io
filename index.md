@@ -38,7 +38,6 @@ Chendi Li, Haipeng Jia, Hang Cao, AutoTSMM: An Auto-tuning Framework for Buildin
 
 Chendi Li, Guangting Zhang, Haipeng Jia, Fast Computation Elementary Functions on ARM Platforms(in Chinese) (Under review)
 
----
 
 ## Patents
 * A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication
@@ -59,7 +58,7 @@ OpenBLAS is an open-source BLAS library. I'm responsible for optimizing pre-pack
 
 * OpenVML
 
-OpenVML is a vector math library. I'm responsible for optimizing the math functions on ARMv8 architecture. The experimental results show that on Kunpeng 920, the high-performance algorithm and optimization we proposed not only meet the calculation accuracy, but also achieve a performance improvement of 66\% to 540\% compared with C standard library function, and a performance improvement of 12\% to 90\% compared with Arm Performance Libraries(ARMPL). The paper of OpenVML is still under review.
+OpenVML is a vector math library. I'm responsible for optimizing the math functions on ARMv8 architecture. The experimental results show that on Kunpeng 920, the high-performance algorithm and optimization we proposed not only meet the calculation accuracy, but also achieve a performance improvement of 66% to 540% compared with C standard library function, and a performance improvement of 12% to 90% compared with Arm Performance Libraries(ARMPL). The paper of OpenVML is still under review.
 
 * AutoFFT
   
