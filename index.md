@@ -32,6 +32,7 @@ HPC+AI, here we go!! :)
 Chendi Li, Haipeng Jia, Hang Cao, AutoTSMM:An Auto-tuning Framework for Building High-Performance Talland-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, New York)
 
 Chendi Li, Guangting Zhang, Haipeng Jia, Fast Computation Elementary Functions on ARM Platforms(in Chinese) (Under review)
+
 ---
 
 ## Patents
