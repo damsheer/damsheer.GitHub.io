@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Chendi Li
+
 ## About Me
 
 <img class="profile-picture" src="sherlock.jpg">
