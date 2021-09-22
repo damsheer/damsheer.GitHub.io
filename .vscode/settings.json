@@ -1,0 +1,21 @@
+{
+    "grammarly.overrides": [
+        {
+            "files": [
+                "**/index.md"
+            ],
+            "config": {
+                "audience": "general",
+                "dialect": "american",
+                "domain": "general",
+                "emotions": [
+                    "neutral",
+                    "joyful"
+                ],
+                "goals": [
+                    "describe"
+                ]
+            }
+        }
+    ]
+}
