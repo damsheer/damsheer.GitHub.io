@@ -63,5 +63,3 @@ OpenVML is a vector math library. I'm responsible for optimizing the math functi
 * AutoFFT
   
 I'm responsible for optimizing small-scale FFT on ARMv8 architecture. I write small-scale inline assembly. AutoFFT is the first project I participated in, and I learned a lot from it. AutoFFT published in SC19.
-
-* OpenFFT
