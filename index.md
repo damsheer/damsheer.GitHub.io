@@ -17,17 +17,17 @@ I am looking for a PhD program.
 
 High Performance Computing, Optimized BLAS Library, Automatic Performance Tuning, Sparse Matrix Multiplication.
 
-HPC+AI, here we go!! :)
+I am also eager to do some fancy Hybrid-Reasearch like HPC+AI. :)
 
 ;## News
 ;
-;2021.9.18 I found there are not many works on sparse matrix-matrix ;multiplication with fault-tolerant
+;2021.9.18 I found there are not many works on sparse matrix-matrix multiplication with fault-tolerant
 ;
-;2021.9.16 Recently, I'm doing some research on optimizing sparse ;matrix-matrix multiplication.
+;2021.9.16 Recently, I'm doing some research on optimizing sparse matrix-matrix multiplication.
 ;
-;2021.7.13 It seems like SC is more likely to accept works about large-scale ;applications.
+;2021.7.13 It seems like SC is more likely to accept works about large-scale applications.
 ;
-;2021.6.14 I finished my paper. and I have a plan about submitting a pull ;request to OpenBLAS, but I don't have enough time to test for all target ;architecture.
+;2021.6.14 I finished my paper. and I have a plan about submitting a pull request to OpenBLAS, but I don't have enough time to test for all target architecture.
 
 
 ## Publications
