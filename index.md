@@ -6,9 +6,10 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-I'm a graduate student from Institute of Computing Technology, Chinese Academy of
-Sciences(ICT.CAS). I have some experience on optimizing algorithms on CPUs like ARMv8 and
-X86.
+I am currently a graduate student at the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), supervised by Prof. Yunquan Zhang.
+
+
+Expected Graduation Date: 2022
 
 ## News
 
@@ -18,17 +19,37 @@ X86.
 
 2021.7.13 It seems like SC is more likely to accept works about large-scale applications.
 
-I finished my works. and I have a plan about submitting a pull request to OpenBLAS, but I don't have enough time to test for all target architecture.
+2021.6.14 I finished my paper. and I have a plan about submitting a pull request to OpenBLAS, but I don't have enough time to test for all target architecture.
 
 ## Research Interest
 
-My research interest is High performance computing, I like to optimizie any algorithm on GPUs and CPUs, I already have lots of experience on high performance computing.
+High Performance Computing, Optimized BLAS Library, Automatic Performance Tuning, Sparse Matrix Multiplication.
+
+HPC+AI, here we go!! :)
 
 ## Publications
 
-AutoTSMM:An Auto-tuning Framework for Building High-Performance Talland-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021)
+Chendi Li, Haipeng Jia, Hang Cao, AutoTSMM:An Auto-tuning Framework for Building High-Performance Talland-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, New York)
 
+Chendi Li, Guangting Zhang, Haipeng Jia, Fast Computation Elementary Functions on ARM Platforms(in Chinese) (Under review)
 ---
+
+## Patents
+
+A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication
+
+
+## Projects
+
+AutoTSMM
+
+OpenBLAS
+
+OpenVML
+
+AutoFFT
+
+OpenFFT
 
 > To a great mind, nothing is little
 
