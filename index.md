@@ -6,8 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-I am currently a graduate student at the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), supervised by Prof. Yunquan Zhang.
-
+I am currently a graduate student at the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), supervised by Prof. Yunquan Zhang. For more details, please refer to my [resume](https://www.chendi.gq/Chendi_Li_Resume.pdf).
 
 Expected Graduation Date: 2022
 
