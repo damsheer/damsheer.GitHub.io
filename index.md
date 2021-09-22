@@ -18,7 +18,7 @@ I am looking for a Ph.D. program.
 
 High-Performance Computing, Optimized BLAS Library, Automatic Performance Tuning, Sparse Matrix Multiplication.
 
-I am also eager to do some fancy Hybrid-Research like HPC+AI. :)
+I am also eager to do some Hybrid-Research like HPC+AI. :)
 
 <!---
 ## News
@@ -41,21 +41,20 @@ Chendi Li, Guangting Zhang, Haipeng Jia, Fast Computation Elementary Functions o
 ---
 
 ## Patents
-
-A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication
-
+#### A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication
+This patent solves the poor performance caused by the excessively high ratio of the packing operation and the inability to reuse the data when the traditional general matrix-matrix multiplication calculates non-regular-shaped matrices.
 
 ## Projects
+* AutoTSMM
+I designed an auto-tuning framework, AutoTSMM, for building high-Performance tall-and-skinny matrix multiplication on all mainstream CPUs. And the performance is competitive with state-of-the-art TSMM implementation from Intel MKL and outperforms all conventional GEMM implementations on X86 and ARMv8 platforms. AutoTSMM was accepted by IEEE ISPA 2021.
 
-AutoTSMM
+* OpenBLAS
+OpenBLAS is an open-source BLAS library. I'm responsible for optimizing pre-pack matrix-matrix multiplication and triangular solve with multiple right-hand-sides(TRSM) on ARMv8 and X86 platforms.
 
-OpenBLAS
+* OpenVML
+OpenVML is a vector math library. I'm responsible for optimizing the math functions on ARMv8 architecture. The experimental results show that on Kunpeng 920, the high-performance algorithm and optimization we proposed not only meet the calculation accuracy, but also achieve a performance improvement of 66\% to 540\% compared with C standard library function, and a performance improvement of 12\% to 90\% compared with Arm Performance Libraries(ARMPL). The paper of OpenVML is still under review.
 
-OpenVML
+* AutoFFT
+I'm responsible for optimizing small-scale FFT on ARMv8 architecture. I write small-scale inline assembly. AutoFFT is the first project I participated in, and I learned a lot from it. AutoFFT published in SC19.
 
-AutoFFT
-
-OpenFFT
-
-> To a great mind, nothing is little
-
+* OpenFFT
