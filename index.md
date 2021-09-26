@@ -12,15 +12,15 @@ layout: default
 
 I am currently a graduate student at the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), supervised by Prof. Yunquan Zhang. For more details, please refer to my [resume](https://www.chendi.gq/Chendi_Li_Resume.pdf){:target="_blank"}.
 
-Expected Graduation Date: 2022
+Expected Graduation Date: 2022 Summer
 
-I am looking for a Ph.D. program.
+I am looking for a 2022 Fall Ph.D. program.
 
 ## Research Interest
 
-High-Performance Computing, Optimized BLAS Library, Automatic Performance Tuning, Sparse Matrix Multiplication.
+High-Performance Computing, Optimized BLAS Library, Sparse Matrix Multiplication.
 
-I am also eager to do some Hybrid-Research like HPC+AI. :)
+I also want to do some research like HPC+AI.
 
 <!---
 ## News
@@ -40,7 +40,7 @@ I am also eager to do some Hybrid-Research like HPC+AI. :)
 
 Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, et al. IAAT: A Input-Aware Adaptive Tuning framework for Small GEMM(IEEE ICPADS 2021, under review)
 
-**Chendi Li**, Guangting Zhang, Haipeng Jia. Fast Computation Elementary Functions on ARM Architecture(in Chinese) (CCF HPC China 2020, Zhengzhou)
+**Chendi Li**, Guangting Zhang, Haipeng Jia. Fast Computation of Elementary Functions on ARM Platforms(in Chinese) (CCF HPC China 2020, Zhengzhou)
 
 ## Patents
 * A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication
@@ -50,19 +50,24 @@ This patent solves the poor performance caused by the excessively high ratio of 
 ## Projects
 * AutoTSMM
 
-I designed an auto-tuning framework, AutoTSMM, for building high-Performance tall-and-skinny matrix multiplication on all mainstream CPUs. And the performance is competitive with state-of-the-art TSMM implementation from Intel MKL and outperforms all conventional GEMM implementations on X86 and ARMv8 platforms. AutoTSMM was accepted by IEEE ISPA 2021.
+I designed AutoTSMM independently, which is used to build high-Performance tall-and-skinny matrix multiplication on all mainstream CPUs. And the performance is competitive with state-of-the-art TSMM implementation from Intel MKL and outperforms all conventional GEMM implementations on X86 and ARMv8 platforms. AutoTSMM was accepted by IEEE ISPA 2021.
 
 * OpenBLAS
 
 OpenBLAS is an open-source BLAS library. I'm responsible for optimizing pre-pack matrix-matrix multiplication and triangular solve with multiple right-hand-sides(TRSM) on ARMv8 and X86 platforms.
 
+* Small-GEMM-JIT
+
+This is a just-in-time small GEMM framework targeting on CPUs. I help to launch the project and did many investigations on how to use JIT tools. I participated in the brainstorm and meeting every week. However, I'm not the main coder of Small-GEMM-JIT.
+
 * IAAT
-IAAT is an input-aware adaptive tuning framework for small GEMM.
+
+IAAT is an input-aware adaptive tuning framework for small GEMM. I'm not the main coder of IAAT, yet I participated in the brainstorm and meeting every week. IAAT is being reviewed by IEEE ICPADS 2021.
 
 * OpenVML
 
-OpenVML is a vector math library. I'm responsible for optimizing the math functions on ARMv8 architecture. The experimental results show that OpenVML achieve a performance improvement of 66% to 540% compared with C standard library function, and a performance improvement of 12% to 90% compared with Arm Performance Libraries(ARMPL) on Kunpeng 920. The paper of OpenVML is accepted by HPC China 2020.
+OpenVML is a vector math library. I'm responsible for optimizing the math functions on ARMv8 platform. The experimental results show that OpenVML achieve a performance improvement of 66\% to 540\% compared with C standard library function, and a performance improvement of 12\% to 90\% compared with Arm Performance Libraries(ARMPL). The paper ``Fast Computation of Elementary Functions on ARM Platform" was accepted by HPC China 2020.
 
 * AutoFFT
   
-I'm responsible for optimizing small-scale FFT on ARMv8 architecture. I write small-scale inline assembly. AutoFFT is the first project I participated in, and I learned a lot from it. AutoFFT published in SC19.
+AutoFFT is a template-based FFT codes auto-generation framework for ARM and X86 CPUs. I'm mainly responsible for optimizing small-scale FFT on ARMv8 architecture. Later, I also did some preliminary work on multi-threading and 2D-FFT. AutoFFT is the first research project I participated in, and I learned a lot from it. AutoFFT was accepted by SC19.
