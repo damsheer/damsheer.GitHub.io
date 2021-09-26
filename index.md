@@ -6,7 +6,9 @@ layout: default
 
 ## About Me
 
+<!---
 <img class="profile-picture" src="sherlock.jpg">
+-->
 
 I am currently a graduate student at the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), supervised by Prof. Yunquan Zhang. For more details, please refer to my [resume](https://www.chendi.gq/Chendi_Li_Resume.pdf){:target="_blank"}.
 
@@ -34,11 +36,11 @@ I am also eager to do some Hybrid-Research like HPC+AI. :)
 
 ## Publications
 
-**Chendi Li**, Haipeng Jia, Hang Cao, et al. AutoTSMM: An Auto-tuning Framework for Building High-Performance Talland-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, New York)
+**Chendi Li**, Haipeng Jia, Hang Cao, et al. AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, New York)
 
 Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, et al. IAAT: A Input-Aware Adaptive Tuning framework for Small GEMM(IEEE ICPADS 2021, under review)
 
-**Chendi Li**, Guangting Zhang, Haipeng Jia. Fast Computation Elementary Functions on ARM Architecture(in Chinese) (HPC CHINA 2020, Zhengzhou)
+**Chendi Li**, Guangting Zhang, Haipeng Jia. Fast Computation Elementary Functions on ARM Architecture(in Chinese) (CCF HPC China 2020, Zhengzhou)
 
 ## Patents
 * A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication
