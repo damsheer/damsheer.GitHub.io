@@ -18,7 +18,7 @@ I am looking for a 2022 Fall Ph.D. program.
 
 ## Research Interest
 
-High-Performance Computing, Optimized BLAS Library, Sparse Matrix Multiplication.
+High-Performance Computing, Optimized BLAS Library, Sparse Matrix Multiplication, CPU and GPU acceleration.
 
 I also want to do some research like HPC+AI.
 
@@ -41,11 +41,6 @@ I also want to do some research like HPC+AI.
 Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, et al. IAAT: A Input-Aware Adaptive Tuning framework for Small GEMM(IEEE ICPADS 2021, under review)
 
 **Chendi Li**, Guangting Zhang, Haipeng Jia. Fast Computation of Elementary Functions on ARM Platforms(in Chinese) (CCF HPC China 2020, Zhengzhou)
-
-## Patents
-* A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication
-
-This patent solves the poor performance caused by the excessively high ratio of the packing operation and the inability to reuse the data when the traditional general matrix-matrix multiplication calculates non-regular-shaped matrices.
 
 ## Projects
 * AutoTSMM
@@ -71,3 +66,8 @@ OpenVML is a vector math library. I'm responsible for optimizing the math functi
 * AutoFFT
   
 AutoFFT is a template-based FFT codes auto-generation framework for ARM and X86 CPUs. I'm mainly responsible for optimizing small-scale FFT on ARMv8 architecture. Later, I also did some preliminary work on multi-threading and 2D-FFT. AutoFFT is the first research project I participated in, and I learned a lot from it. AutoFFT was accepted by SC19.
+
+## Patents
+* A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication
+
+This patent solves the poor performance caused by the excessively high ratio of the packing operation and the inability to reuse the data when the traditional general matrix-matrix multiplication calculates non-regular-shaped matrices.
