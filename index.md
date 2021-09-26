@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Chendi Li
+# Chendi Li
 
 ## About Me
 
@@ -34,31 +34,32 @@ I am also eager to do some Hybrid-Research like HPC+AI. :)
 
 ## Publications
 
-**Chendi Li**, Haipeng Jia, Hang Cao, AutoTSMM: An Auto-tuning Framework for Building High-Performance Talland-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, New York)
+**Chendi Li**, Haipeng Jia, Hang Cao, et al. AutoTSMM: An Auto-tuning Framework for Building High-Performance Talland-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, New York)
 
-**Chendi Li**, Guangting Zhang, Haipeng Jia, Fast Computation Elementary Functions on ARM Platforms(in Chinese) (Under review)
+Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, et al. IAAT: A Input-Aware Adaptive Tuning framework for Small GEMM(ICPADS 2021, under review)
 
+**Chendi Li**, Guangting Zhang, Haipeng Jia. Fast Computation Elementary Functions on ARM Architecture(in Chinese) (HPC CHINA 2020, Zhengzhou)
 
 ## Patents
 * A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication
-
 
 This patent solves the poor performance caused by the excessively high ratio of the packing operation and the inability to reuse the data when the traditional general matrix-matrix multiplication calculates non-regular-shaped matrices.
 
 ## Projects
 * AutoTSMM
 
-
 I designed an auto-tuning framework, AutoTSMM, for building high-Performance tall-and-skinny matrix multiplication on all mainstream CPUs. And the performance is competitive with state-of-the-art TSMM implementation from Intel MKL and outperforms all conventional GEMM implementations on X86 and ARMv8 platforms. AutoTSMM was accepted by IEEE ISPA 2021.
 
 * OpenBLAS
 
-
 OpenBLAS is an open-source BLAS library. I'm responsible for optimizing pre-pack matrix-matrix multiplication and triangular solve with multiple right-hand-sides(TRSM) on ARMv8 and X86 platforms.
+
+* IAAT
+IAAT is an input-aware adaptive tuning framework for small GEMM.
 
 * OpenVML
 
-OpenVML is a vector math library. I'm responsible for optimizing the math functions on ARMv8 architecture. The experimental results show that on Kunpeng 920, the high-performance algorithm and optimization we proposed not only meet the calculation accuracy, but also achieve a performance improvement of 66% to 540% compared with C standard library function, and a performance improvement of 12% to 90% compared with Arm Performance Libraries(ARMPL). The paper of OpenVML is still under review.
+OpenVML is a vector math library. I'm responsible for optimizing the math functions on ARMv8 architecture. The experimental results show that OpenVML achieve a performance improvement of 66% to 540% compared with C standard library function, and a performance improvement of 12% to 90% compared with Arm Performance Libraries(ARMPL) on Kunpeng 920. The paper of OpenVML is accepted by HPC China 2020.
 
 * AutoFFT
   
