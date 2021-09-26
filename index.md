@@ -67,7 +67,7 @@ IAAT is an input-aware adaptive tuning framework for small GEMM. I'm not the mai
 
 * OpenVML
 
-OpenVML is a vector math library. I'm responsible for optimizing the math functions on ARMv8 platform. The experimental results show that OpenVML achieve a performance improvement of 66\% to 540\% compared with C standard library function, and a performance improvement of 12\% to 90\% compared with Arm Performance Libraries(ARMPL). The paper ``Fast Computation of Elementary Functions on ARM Platform" was accepted by HPC China 2020.
+OpenVML is a vector math library. I'm responsible for optimizing the math functions on ARMv8 platform. The experimental results show that OpenVML achieve a performance improvement of 66% to 540% compared with C standard library function, and a performance improvement of 12% to 90% compared with Arm Performance Libraries(ARMPL). The paper ``Fast Computation of Elementary Functions on ARM Platform" was accepted by HPC China 2020.
 
 * AutoFFT
   
