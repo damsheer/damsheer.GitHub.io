@@ -22,7 +22,7 @@ I am looking for a 2022 Fall Ph.D. program.
 
 High-Performance Computing, Optimized BLAS Library, Sparse Matrix Multiplication, CPU and GPU acceleration.
 
-I also want to do some research like HPC+AI.
+I like hardcore programming and I really want to do some research on system area.
 
 <!---
 ## News
