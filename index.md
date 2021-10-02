@@ -12,7 +12,7 @@ layout: default
 <img class="profile-picture" src="sherlock.jpg">
 -->
 
-I am currently a graduate student at the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), supervised by Prof. **Yunquan Zhang**. For more details, please refer to my [resume](https://www.chendi.gq/Chendi_Li_Resume.pdf){:target="_blank"}. If you have any question, feel free to contact me by [email](mailto:lichendi.cs@gmail.com) or [phone](tel:+86-18801011904).
+I am currently a graduate student at the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), supervised by Prof. **Yunquan Zhang**. For more details, please refer to my [resume](https://www.chendi.gq/Chendi_Li_Resume.pdf){:target="_blank"}. If you have any questions, feel free to contact me by [email](mailto:lichendi.cs@gmail.com).
 
 Expected Graduation Date: 2022 Summer
 
@@ -23,7 +23,7 @@ I am looking for a 2022 Fall Ph.D. program.
 High-Performance Computing, Optimized BLAS Library, CPU and GPU acceleration.
 
 <!---
-I like hardcore programming and I really want to do some research on system area.
+I like hardcore programming and I really want to do some research on the system area.
 
 ## News
 
@@ -60,11 +60,11 @@ This is a just-in-time small GEMM framework targeting on CPUs. I help to launch 
 
 * IAAT (Contributor)
 
-IAAT is an input-aware adaptive tuning framework for small GEMM. I'm not the main coder of IAAT, yet I participated in the brainstorm and meeting every week. IAAT is being reviewed by IEEE ICPADS 2021.
+IAAT is an input-aware adaptive tuning framework for small GEMM. I'm not the main coder of IAAT, yet I participated in the brainstorm and meetings every week. IAAT is being reviewed by IEEE ICPADS 2021.
 
 * **OpenVML (Co-author)**
 
-OpenVML is a vector math library. I'm responsible for optimizing the math functions on ARMv8 platform. The experimental results show that OpenVML achieve a performance improvement of 66% to 540% compared with C standard library function, and a performance improvement of 12% to 90% compared with Arm Performance Libraries(ARMPL). The paper ``Fast Computation of Elementary Functions on ARM Platform" was accepted by HPC China 2020.
+OpenVML is a vector math library. I'm responsible for optimizing the math functions on ARMv8 platform. The experimental results show that OpenVML achieve a performance improvement of 66% to 540% compared with C standard library function, and a performance improvement of 12% to 90% compared with Arm Performance Libraries(ARMPL). The paper "Fast Computation of Elementary Functions on ARM Platform" was accepted by HPC China 2020.
 
 * **AutoFFT (Contributor)**
 
@@ -79,22 +79,28 @@ This patent solves the poor performance caused by the excessively high ratio of 
 ---
 
 ## Non-academic life
-I think I have that goal-driven personality, if I have a goal I will try my best to do it. My undergraduate life lacked guidance. I wanted to be a good programmer and I used to make a lot of effort on some coding projects to improve my coding skills instead of getting good grades. After graduation, I worked as a research assistant for gap year and passed the national admissions test for graduate school with good grades(342/500, 22 points above the score line of the ICT.CAS), and then I participated in many research projects and had an oppotunity to do some independent research. The most important thing is that I have always been eager to learn and become better, so I believe that I have the ability to become a PhD candidate.
+I think I have that goal-driven personality, if I have a goal I will try my best to do it. My undergraduate life lacked guidance yet I wanted to be a distinguished programmer and I used to make a lot of effort on some coding projects to improve my coding skills instead of getting good grades. After graduation, I worked as a research assistant for a gap year and passed the national admissions test for graduate school with good grades(342/500, 20 points above the scoreline of the ICT.CAS), and then I participated in many research projects and had an opportunity to do some independent research. The most important thing is that I have always been eager to learn and become better, so I believe that I can become a Ph.D. candidate.
 
 ### Personal projects
 * AutoSeed for Private tracker sites
-I am coding for my personal auto-seed project which deployed on one of my VPS, but I still not finished yet, because I am too busy recently. I am not a fanboy of self-hosting, but I still have some geek spirit.
+  
+I am coding for my auto-seed project which deployed on one of my VPS, but I am still not finished yet because I am too busy recently. I am not a fanboy of self-hosting, yet I have some geek spirit.
 
 * Bilibili/Youtube daily backup
-I write a python program, it automaticaly download my favorate uploader/youtubers' video everyday and upload it to my google drive.
+  
+I write a python program, it automatically downloads my favorite uploader/YouTubers video every day and uploads it to my google drive.
 
-* Similarity english words search engine
-Sometimes I misunderstand the words' meaning because they a very similar, so I write the project to search all the similar words, it is based on levenshtein distance.
+* Similarity English words search engine
+  
+Sometimes I misunderstand the words' meaning because they a very similar, so I write the project to search all the similar words, it is based on Levenshtein distance.
 
 ### ACM compete programming(I liked it)
 
 
-### Volunteer
 
+### Volunteer
+I have given classes to the primary school, and I have raised fundraising for non-developed regions.
+
+I was the outstanding volunteer in 2015.
 
 ---
