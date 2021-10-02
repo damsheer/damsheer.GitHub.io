@@ -5,7 +5,7 @@ url: "https://www.chendi.gq"
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
-ins_logo: "./ict.png"
+#ins_logo: "./ict.png"
 
 tracking_id: #
 
