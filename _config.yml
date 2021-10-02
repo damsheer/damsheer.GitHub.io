@@ -6,7 +6,7 @@ remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 #ins_logo: "./ict.png"
-favicon: "./ict.png"
+favicon: "./ict-removebg-preview.png"
 
 tracking_id: #
 
