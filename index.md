@@ -82,9 +82,19 @@ This patent solves the poor performance caused by the excessively high ratio of 
 
 ## Non-academic life
 I think I have that goal-driven personality, if I have a goal I will try my best to do it. My undergraduate life lacked guidance. I wanted to be a good programmer and I used to make a lot of effort on some coding projects to improve my coding skills instead of getting good grades. After graduation, I worked as a research assistant for gap year and passed the admissions test for graduate school with good grades(342/500, 22 points above the score line of the ICT.CAS), and then I participated in many research projects and had an oppotunity to do some independent research. The most important thing is that I have always been eager to learn and become better, so I believe that I have the ability to become a PhD candidate.
-### Projects
 
-### ACM compete programming
+### Projects(not for research)
+* Similarity english words search engine
+Sometimes I misunderstand the words' meaning because they a very similar, so I write the project to search all the similar words, it is based on [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance){:target="_blank"}.
+
+* Bilibili/Youtube daily backup
+I write a python program, it automaticaly download my favorate uploader/youtubers' video everyday and upload it to my google drive.
+
+* AutoSeed for Private tracker sites
+I am coding for my personal auto-seed project which deployed on one of my VPS, but I still not finished yet, because I am too busy recently. I am not a fanboy of self-hosting, but I still have some geek spirit.
+
+### ACM compete programming(I liked it)
+
 
 ### Volunteer
 
