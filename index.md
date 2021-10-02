@@ -4,14 +4,13 @@ layout: default
 
 # Chendi Li
 
----
 ## Academic life
 
 <!---
 <img class="profile-picture" src="sherlock.jpg">
 -->
 
-I am currently a graduate student at the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), supervised by Prof. **Yunquan Zhang**. For more details, please refer to my [resume](https://www.chendi.gq/Chendi_Li_Resume.pdf){:target="_blank"}. Feel free to contact me[email-me](mailto:chendi.li@outlook.com) if you have any question.
+I am currently a graduate student at the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), supervised by Prof. **Yunquan Zhang**. For more details, please refer to my [resume](https://www.chendi.gq/Chendi_Li_Resume.pdf){:target="_blank"}. If you have any question, feel free to contact me by [email](mailto:lichendi.cs@gmail.com) or [phone](tel:+86-18801011904).
 
 Expected Graduation Date: 2022 Summer
 
@@ -68,7 +67,7 @@ OpenVML is a vector math library. I'm responsible for optimizing the math functi
 
 * AutoFFT (Contributor)
 
-AutoFFT is a template-based FFT codes auto-generation framework for ARM and X86 CPUs. I'm mainly responsible for optimizing small-scale FFT on ARMv8 architecture. Later, I also did some preliminary work on multi-threading and 2D-FFT. AutoFFT is the first research project I participated in, and I learned a lot from it. AutoFFT was accepted by SC19.
+AutoFFT is a template-based FFT codes auto-generation framework for ARM and X86 CPUs. I'm mainly responsible for optimizing small-scale FFT on ARMv8 architecture. Later, I also did some preliminary work on multi-threading and 2D-FFT. AutoFFT is the first research project I participated in, and I learned a lot from it. The paper of AutoFFT was accepted by SC'19 and TPDS'20.
 
 
 ### Patents
@@ -89,7 +88,7 @@ I am coding for my personal auto-seed project which deployed on one of my VPS, b
 I write a python program, it automaticaly download my favorate uploader/youtubers' video everyday and upload it to my google drive.
 
 * Similarity english words search engine
-Sometimes I misunderstand the words' meaning because they a very similar, so I write the project to search all the similar words, it is based on [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance){:target="_blank"}.
+Sometimes I misunderstand the words' meaning because they a very similar, so I write the project to search all the similar words, it is based on levenshtein distance.
 
 ### ACM compete programming(I liked it)
 

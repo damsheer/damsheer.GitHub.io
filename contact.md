@@ -3,12 +3,12 @@ layout: default
 is_contact: true
 ---
 
-* Email: [chendi.li@outlook.com](mailto:chendi.li@outlook.com)
-* Phone: [US: +1 (413)931-1735](tel:+1-4139311735)
+* Email: [lichendi.cs@gmail.com](mailto:lichendi.cs@gmail.com)
 * Phone: [China: +86 18801011904](tel:+86-18801011904)
-
-
 <!---
+* Phone: [US: +1 (413)931-1735](tel:+1-4139311735)
+
+
 ---
 
 ## Social
