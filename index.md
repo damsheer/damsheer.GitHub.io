@@ -79,7 +79,7 @@ This patent solves the poor performance caused by the excessively high ratio of 
 ---
 
 ## Non-academic life
-I think I have that goal-driven personality, if I have a goal I will try my best to do it. My undergraduate life lacked guidance yet I wanted to be a distinguished programmer and I used to make a lot of effort on some coding projects to improve my coding skills instead of getting good grades. After graduation, I worked as a research assistant for a gap year and passed the national admissions test for graduate school with good grades(342/500, 20 points above the scoreline of the ICT.CAS), and then I participated in many research projects and had an opportunity to do some independent research. The most important thing is that I have always been eager to learn and become better, so I believe that I can become a Ph.D. candidate.
+I have a goal-driven personality, if I have a goal I will try my best to do it. My undergraduate life lacked guidance yet I wanted to be a distinguished programmer and I took a lot of effort on coding projects and competitive programming to improve my coding skills. After graduation, I worked as a research assistant for a gap year and passed the national admissions test for graduate school with good grades(342/500, 20 points above the scoreline of the ICT.CAS), and then I participated in many research projects and had an opportunity to do some independent research. The most important thing is that I have always been eager to learn and become better, so I believe that I can become a Ph.D. candidate.
 
 ### Personal projects
 * AutoSeed for Private tracker sites
