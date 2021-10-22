@@ -43,29 +43,26 @@ I like hardcore programming and I really want to do some research on the system 
 
 ### Publications
 
-**[IEEE ISPA 2021]** **Chendi Li**, Haipeng Jia, Hang Cao, et al. AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs
+**[IEEE ISPA 2021, accepted]**[link](http://www.cloud-conf.net/ispa2021/proc/pdfs/ISPA-BDCloud-SocialCom-SustainCom2021-3mkuIWCJVSdKJpBYM7KEKW/264600a159/264600a159.pdf){:target="_blank"} **Chendi Li**, Haipeng Jia, Hang Cao, et al. AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs
 
-**[IEEE ICPADS 2021, under review]** Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, et al. IAAT: An Input-Aware Adaptive Tuning framework for Small GEMM
+**[IEEE ICPADS 2021, accepted]** Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, et al. IAAT: An Input-Aware Adaptive Tuning framework for Small GEMM
+
+**[IEEE HPCC 2021, under review]** Tun Chen, Haipeng Jia,  Zhihao Li, Yunquan Zhang, et al. A Transpose-free Three-dimensional FFT Algorithm on ARM CPUs
 
 **[CCF HPC China 2020]** **Chendi Li**, Guangting Zhang, Haipeng Jia. Fast Computation of Elementary Functions on ARM Platforms(in Chinese)
-
 
 ### Research projects
 * **AutoTSMM (Author)**
 
-I designed AutoTSMM independently, which is used to build high-Performance tall-and-skinny matrix multiplication on all mainstream CPUs. And the performance is competitive with state-of-the-art TSMM implementation from Intel MKL and outperforms all conventional GEMM implementations on X86 and ARMv8 platforms. AutoTSMM was accepted by IEEE ISPA 2021.
+Designed AutoTSMM, which is used to build high-Performance tall-and-skinny matrix multiplication on all mainstream CPUs. AutoTSMM is competitive with Intel MKL and outperforms all conventional GEMM implementations on X86 and ARMv8 platforms. This work is published in IEEE ISPA 2021.
 
 * **OpenBLAS (Contributor)**
 
-OpenBLAS is an open-source BLAS library. I'm responsible for optimizing pre-pack matrix-matrix multiplication and triangular solve with multiple right-hand-sides(TRSM) on ARMv8 and X86 platforms.
-
-* Small-GEMM-JIT (Contributor)
-
-This is a just-in-time small GEMM framework targeting on CPUs. I help to launch the project and did many investigations on how to use JIT tools. I participated in the brainstorm and meeting every week. However, I'm not the main coder of Small-GEMM-JIT.
+Optimized pre-pack matrix-matrix multiplication and triangular solve with multiple right-hand-sides(TRSM) on ARMv8 and X86 platforms. OpenBLAS is a one of the most famous open-source BLAS library.
 
 * IAAT (Contributor)
 
-IAAT is an input-aware adaptive tuning framework for small GEMM. I'm not the main coder of IAAT, yet I participated in the brainstorm and meetings every week. IAAT is being reviewed by IEEE ICPADS 2021.
+Launched the project and investigated JIT tools for small GEMM. IAAT is a template-driven just-in-time(JIT) small GEMM framework targeting CPUs. This work is accepted by IEEE ICPADS 2021.
 
 * **OpenVML (Co-author)**
 
@@ -73,22 +70,33 @@ OpenVML is a vector math library. I'm responsible for optimizing the math functi
 
 * **AutoFFT (Contributor)**
 
-AutoFFT is a template-based FFT codes auto-generation framework for ARM and X86 CPUs. I'm mainly responsible for optimizing small-scale FFT on ARMv8 architecture. Later, I also did some preliminary work on multi-threading and 2D-FFT. AutoFFT is the first research project I participated in, and I learned a lot from it. The paper of AutoFFT was accepted by SC'19 and TPDS'20.
-
+Optimized small-scale FFT on ARMv8 platforms, and did some works on multi-threading and 2D-FFT. AutoFFT is a template-based FFT codes auto-generation framework for ARM and X86 CPUs. This work is published in SC'19 and TPDS'20.
 
 ### Patents
-* A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication
+* A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication (Pending)
 
 This patent solves the poor performance caused by the excessively high ratio of the packing operation and the inability to reuse the data when the traditional general matrix-matrix multiplication calculates non-regular-shaped matrices.
+
+
+### Invited Talks
+
+AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, Virtual Conference)
+
+OpenVML: Fast Computation of Elementary Functions on ARM Platforms(CCF HPC CHINA 2020, Virtual Conference)
+
+### Service
+HPC CHINA 2020, Student Volunteer
+
+HPC CHINA 2019, Student Volunteer
 
 ---
 
 ## Non-academic life
-I have a goal-driven personality, if I have a goal I will try my best to do it. My undergraduate life lacked guidance yet I wanted to be a distinguished programmer and I took a lot of effort on coding projects and competitive programming to improve my coding skills. After graduation, I worked as a research assistant for a gap year and passed the national admissions test for graduate school with good grades(342/500, 20 points above the scoreline of the ICT.CAS), and then I participated in many research projects and had an opportunity to do some independent research. The most important thing is that I have always been eager to learn and become better, so I believe that I can become a Ph.D. candidate.
+I have a goal-driven personality. If I have a goal, I will do my best to achieve it. My undergraduate life lacks guidance, but I want to be an outstanding programmer. I put a lot of effort into coding projects and competitive programming to improve my coding skills. After graduation, I worked as a research assistant for the gap year and passed the National Graduate School Admissions Examination with excellent score. After that, I participated in many scientific research projects and had the opportunity to do some independent research. Most importantly, I have always been eager to learn and challenge myself, so I believe I can become a PhD candidate.
 
 ### Personal projects
 * AutoSeed for Private tracker sites
-  
+
 I am coding for my auto-seed project which deployed on one of my VPS, but I am still not finished yet because I am too busy recently. I am not a fanboy of self-hosting, yet I have some geek spirit.
 
 * Bilibili/Youtube daily backup
@@ -99,9 +107,16 @@ I write a python program, it automatically downloads my favorite uploader/YouTub
   
 Sometimes I misunderstand the words' meaning because they a very similar, so I write the project to search all the similar words, it is based on Levenshtein distance.
 
-### ACM compete programming(I liked it)
+* Student Information Management System
 
+An student information management system, I am responsible for the front-end of the website.
 
+* 2014 FIFA World Cup results
+
+A Android app to search for the results of the 2014 FIFA World Cup.
+
+### ACM competition programming
+I won the first prize of the "Fingertip Storm" programming contest in HUNAU. And I participated in many competitions, such as Xiangtan Invitational and Hunan University Program Design Competition.
 
 ### Volunteer
 I have given classes to the primary school, and I have raised fundraising for non-developed regions.
