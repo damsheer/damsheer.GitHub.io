@@ -1,6 +1,8 @@
 ---
 layout: default
-is_contact: true
+#is_contact: true
+is_pub: true
+
 ---
 
 * Email: [lichendi.cs@gmail.com](mailto:lichendi.cs@gmail.com)
