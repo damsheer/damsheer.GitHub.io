@@ -24,8 +24,7 @@ High-Performance Computing
 
 Sparse/Dense Matrix Multiplication
 
-AI for HPC | HPC for AI
-
+AI for HPC, or HPC for AI
 
 <!---
 I like hardcore programming and I really want to do some research on the system area.
