@@ -23,5 +23,7 @@ nav:
 #   link: "/researcher/"
  - name: "Resume"
    link: "Chendi_Li_Resume.pdf"
+ - name: "CV"
+   link: "Chendi_Li_CV.pdf"
  - name: "Contact"
    link: "contact"
