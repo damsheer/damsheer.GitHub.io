@@ -12,7 +12,7 @@ layout: default
 <img class="profile-picture" src="sherlock.jpg">
 -->
 
-I am currently a graduate student at the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), supervised by Prof. **Yunquan Zhang**. For more details, please refer to my [resume](https://www.chendi.gq/Chendi_Li_Resume.pdf){:target="_blank"}. If you have any questions, feel free to contact me by [email](mailto:lichendi.cs@gmail.com).
+I am currently a graduate student at the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), supervised by Prof. **Yunquan Zhang**. For more details, please refer to my [resume](https://www.chendi.gq/Chendi_Li_Resume.pdf){:target="_blank"} or [CV](https://www.chendi.gq/Chendi_Li_CV.pdf){:target="_blank"}. If you have any questions, feel free to contact me by [email](mailto:lichendi.cs@gmail.com).
 
 Expected Graduation Date: 2022 Summer
 
@@ -20,7 +20,12 @@ I am looking for a 2022 Fall Ph.D. program.
 
 ### Research Interest
 
-High-Performance Computing, Optimized BLAS Library, CPU and GPU acceleration.
+High-Performance Computing
+
+Sparse/Dense Matrix Multiplication
+
+AI for HPC | HPC for AI
+
 
 <!---
 I like hardcore programming and I really want to do some research on the system area.
