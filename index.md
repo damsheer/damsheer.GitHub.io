@@ -78,10 +78,15 @@ This patent solves the poor performance caused by the excessively high ratio of 
 
 ### Awards & Honors
 2021: First-Class Scholarship of Chinese Academy of Sciences
+<br/>
 2020: Second-class scholarship of Chinese Academy of Sciences
+<br/>
 2019: Third-Class Scholarship of Chinese Academy of Sciences
+<br/>
 2019: Outstanding intern in PerfXLab
+<br/>
 2015: Outstanding volunteer
+<br/>
 2015: Collegiate programming contest first prize
 
 ### Invited Talks
@@ -106,7 +111,7 @@ I have a goal-driven personality. If I have a goal, I will do my best to achieve
 I am coding for my auto-seed project which deployed on one of my VPS, but I am still not finished yet because I am too busy recently. I am not a fanboy of self-hosting, yet I have some geek spirit.
 
 * Bilibili/Youtube daily backup
-  
+
 I write a python program, it automatically downloads my favorite uploader/YouTubers video every day and uploads it to my google drive.
 
 * Similarity English words search engine
