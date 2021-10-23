@@ -21,9 +21,9 @@ I am looking for a 2022 Fall Ph.D. program.
 ### Research Interest
 
 High-Performance Computing
-
+<br/>
 Sparse/Dense Matrix Multiplication
-
+<br/>
 AI for HPC, or HPC for AI
 
 <!---
@@ -92,12 +92,12 @@ This patent solves the poor performance caused by the excessively high ratio of 
 ### Invited Talks
 
 AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, Virtual Conference)
-
+<br/>
 OpenVML: Fast Computation of Elementary Functions on ARM Platforms(CCF HPC CHINA 2020, Virtual Conference)
 
 ### Service
 HPC CHINA 2020, Student Volunteer
-
+<br/>
 HPC CHINA 2019, Student Volunteer
 
 ---
@@ -107,23 +107,23 @@ I have a goal-driven personality. If I have a goal, I will do my best to achieve
 
 ### Personal projects
 * AutoSeed for Private tracker sites
-
+<br/>
 I am coding for my auto-seed project which deployed on one of my VPS, but I am still not finished yet because I am too busy recently. I am not a fanboy of self-hosting, yet I have some geek spirit.
 
 * Bilibili/Youtube daily backup
-
+<br/>
 I write a python program, it automatically downloads my favorite uploader/YouTubers video every day and uploads it to my google drive.
 
 * Similarity English words search engine
-  
+  <br/>
 Sometimes I misunderstand the words' meaning because they a very similar, so I write the project to search all the similar words, it is based on Levenshtein distance.
 
 * Student Information Management System
-
+<br/>
 An student information management system, I am responsible for the front-end of the website.
 
 * 2014 FIFA World Cup results
-
+<br/>
 A Android app to search for the results of the 2014 FIFA World Cup.
 
 ### ACM competition programming
