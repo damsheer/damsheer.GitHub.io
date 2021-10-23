@@ -18,7 +18,7 @@ Expected Graduation Date: 2022 Summer
 
 I am looking for a 2022 Fall Ph.D. program.
 
-### Research Interest
+### Research Interests
 
 High-Performance Computing
 <br/>
@@ -95,7 +95,7 @@ AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny
 
 OpenVML: Fast Computation of Elementary Functions on ARM Platforms(CCF HPC CHINA 2020, Virtual Conference)
 
-### Service
+### Services
 Student Volunteer at HPC CHINA 2020
 <br/>
 Student Volunteer at HPC CHINA 2019 
