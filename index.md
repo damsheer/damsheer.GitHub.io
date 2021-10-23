@@ -108,14 +108,14 @@ I have a goal-driven personality. If I have a goal, I will do my best to achieve
 ### Personal projects
 * AutoSeed for Private tracker sites
 <br/>
-I am coding for my auto-seed project which deployed on one of my VPS, but I am still not finished yet because I am too busy recently. I am not a fanboy of self-hosting, yet I have some geek spirit.
+The project is written using Python, it automatically download and fills the form to the new site with POST. It is deployed on one of my VPS, although there are still some bugs.
 
 * Bilibili/Youtube daily backup
 <br/>
-I write a python program, it automatically downloads my favorite uploader/YouTubers video every day and uploads it to my google drive.
+I wrote this program via Python, which automatically downloads my favorite Youtubers' video and upload it to my Google Drive.
 
 * Similarity English words search engine
-  <br/>
+<br/>
 Sometimes I misunderstand the words' meaning because they a very similar, so I write the project to search all the similar words, it is based on Levenshtein distance.
 
 * Student Information Management System
