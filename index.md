@@ -76,6 +76,13 @@ Optimized small-scale FFT on ARMv8 platforms, and did some works on multi-thread
 
 This patent solves the poor performance caused by the excessively high ratio of the packing operation and the inability to reuse the data when the traditional general matrix-matrix multiplication calculates non-regular-shaped matrices.
 
+### Awards & Honors
+2021: First-Class Scholarship of Chinese Academy of Sciences
+2020: Second-class scholarship of Chinese Academy of Sciences
+2019: Third-Class Scholarship of Chinese Academy of Sciences
+2019: Outstanding intern in PerfXLab
+2015: Outstanding volunteer
+2015: Collegiate programming contest first prize
 
 ### Invited Talks
 
