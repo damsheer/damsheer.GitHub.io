@@ -20,11 +20,11 @@ I am looking for a 2022 Fall Ph.D. program.
 
 ### Research Interests
 
-High-Performance Computing
+* High-Performance Computing
 <br/>
-Sparse/Dense Matrix Multiplication
+* Sparse/Dense Matrix Multiplication
 <br/>
-AI for HPC, or HPC for AI
+* AI for HPC, or HPC for AI
 
 <!---
 I like hardcore programming and I really want to do some research on the system area.
