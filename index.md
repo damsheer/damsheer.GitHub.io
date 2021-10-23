@@ -106,23 +106,23 @@ Student Volunteer at HPC CHINA 2019
 I have a goal-driven personality. If I have a goal, I will do my best to achieve it. My undergraduate life lacks guidance, but I want to be an outstanding programmer. I put a lot of effort into coding projects and competitive programming to improve my coding skills. After graduation, I worked as a research assistant for the gap year and passed the National Graduate School Admissions Examination with excellent score. After that, I participated in many scientific research projects and had the opportunity to do some independent research. Most importantly, I have always been eager to learn and challenge myself, so I believe I can become a PhD candidate.
 
 ### Personal projects
-* AutoSeed for Private tracker sites
+* **AutoSeed for Private tracker sites**
 <br/>
 The project is written using Python, it automatically download and fills the form to the new site with POST. It is deployed on one of my VPS, although there are still some bugs.
 
-* Bilibili/Youtube daily backup
+* **Bilibili/Youtube daily backup**
 <br/>
 I wrote this program via Python, which automatically downloads my favorite Youtubers' video and upload it to my Google Drive.
 
-* Similarity English words search engine
+* **Similarity English words search engine**
 <br/>
 Sometimes I misunderstand the words' meaning because they a very similar, so I write the project to search all the similar words, it is based on Levenshtein distance.
 
-* Student Information Management System
+* **Student Information Management System**
 <br/>
 An student information management system, I am responsible for the front-end of the website.
 
-* 2014 FIFA World Cup results
+* **2014 FIFA World Cup results**
 <br/>
 A Android app to search for the results of the 2014 FIFA World Cup.
 
