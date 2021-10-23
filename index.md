@@ -91,14 +91,14 @@ This patent solves the poor performance caused by the excessively high ratio of 
 
 ### Invited Talks
 
-AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, Virtual Conference)
-<br/>
-OpenVML: Fast Computation of Elementary Functions on ARM Platforms(CCF HPC CHINA 2020, Virtual Conference)
+2021: AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, Virtual Conference)
+
+2020: OpenVML: Fast Computation of Elementary Functions on ARM Platforms(CCF HPC CHINA 2020, Virtual Conference)
 
 ### Service
-HPC CHINA 2020, Student Volunteer
+Student Volunteer at HPC CHINA 2020
 <br/>
-HPC CHINA 2019, Student Volunteer
+Student Volunteer at HPC CHINA 2019 
 
 ---
 
