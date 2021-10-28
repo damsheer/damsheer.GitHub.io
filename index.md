@@ -116,7 +116,7 @@ I wrote this program via Python, which automatically downloads my favorite Youtu
 
 * **Similarity English words search engine**
 <br/>
-Sometimes I misunderstand the words' meaning because they a very similar, so I write the project to search all the similar words, it is based on Levenshtein distance.
+Sometimes I misunderstand the words' meaning because they look very similar, so I write the project to search all the similar words, it is based on Levenshtein distance.
 
 * **Student Information Management System**
 <br/>
