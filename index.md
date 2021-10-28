@@ -53,7 +53,7 @@ I like hardcore programming and I really want to do some research on the system 
 ### Research projects
 * **AutoTSMM (Author)**
 
-Designed AutoTSMM, which is used to build high-Performance tall-and-skinny matrix multiplication on all mainstream CPUs. AutoTSMM is competitive with Intel MKL and outperforms all conventional GEMM implementations on X86 and ARMv8 platforms. This work is published in IEEE ISPA 2021.
+Designed AutoTSMM, which is used to build high-Performance tall-and-skinny matrix multiplication on all mainstream CPUs. AutoTSMM can speed up convolution layers in real-world deep learning applications, and the performance is competitive with Intel OneMKL and outperforms all conventional GEMM implementationss. This work is published in IEEE ISPA 2021.
 
 * **OpenBLAS (Contributor)**
 
