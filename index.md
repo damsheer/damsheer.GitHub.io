@@ -46,7 +46,7 @@ I like hardcore programming and I really want to do some research on the system 
 
 **[IEEE ICPADS 2021, accepted]** Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, et al. **IAAT: An Input-Aware Adaptive Tuning framework for Small GEMM**
 
-**[IEEE HPCC 2021, under review]** Tun Chen, Haipeng Jia,  Zhihao Li, Yunquan Zhang, et al. **A Transpose-free Three-dimensional FFT Algorithm on ARM CPUs**
+**[IEEE HPCC 2021, accepted]** Tun Chen, Haipeng Jia,  Zhihao Li, Yunquan Zhang, et al. **A Transpose-free Three-dimensional FFT Algorithm on ARM CPUs**
 
 **[CCF HPC China 2020]** **Chendi Li**, Guangting Zhang, Haipeng Jia. **Fast Computation of Elementary Functions on ARM Platforms**(in Chinese)
 
@@ -91,7 +91,7 @@ This patent solves the poor performance caused by the excessively high ratio of 
 
 ### Invited Talks
 
-AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, Virtual Conference)
+[AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, Virtual Conference)](https://www.youtube.com/watch?v=NjIla6zXRHM){:target="_blank"}
 
 OpenVML: Fast Computation of Elementary Functions on ARM Platforms(CCF HPC CHINA 2020, Virtual Conference)
 
