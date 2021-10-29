@@ -24,7 +24,7 @@ I am looking for a 2022 Fall Ph.D. program.
 <br/>
 * Sparse/Dense Matrix Multiplication
 <br/>
-* Machine Learning for HPC and HPC for Machine Learning
+* Deep Learning for HPC and HPC for Deep Learning
 
 <!---
 I like hardcore programming and I really want to do some research on the system area.
