@@ -42,7 +42,7 @@ I like hardcore programming and I really want to do some research on the system 
 
 ### Publications
 
-**[IEEE ISPA 2021]** **Chendi Li**, Haipeng Jia, Hang Cao, et al. [**AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs**](http://www.cloud-conf.net/ispa2021/proc/pdfs/ISPA-BDCloud-SocialCom-SustainCom2021-3mkuIWCJVSdKJpBYM7KEKW/264600a159/264600a159.pdf){:target="_blank"}
+**[IEEE ISPA 2021]** **Chendi Li**, Haipeng Jia, Hang Cao, et al. **AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs**([link](http://www.cloud-conf.net/ispa2021/proc/pdfs/ISPA-BDCloud-SocialCom-SustainCom2021-3mkuIWCJVSdKJpBYM7KEKW/264600a159/264600a159.pdf){:target="_blank"})
 
 **[IEEE ICPADS 2021, accepted]** Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, et al. **IAAT: An Input-Aware Adaptive Tuning framework for Small GEMM**
 
@@ -91,7 +91,7 @@ This patent solves the poor performance caused by the excessively high ratio of 
 
 ### Invited Talks
 
-ISPA'21: [AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, Virtual Conference)](https://www.youtube.com/watch?v=NjIla6zXRHM){:target="_blank"}
+ISPA'21: AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs (IEEE ISPA 2021, Virtual Conference)([Youtube](https://www.youtube.com/watch?v=NjIla6zXRHM){:target="_blank"})
 
 HPC-CHINA'20: OpenVML: Fast Computation of Elementary Functions on ARM Platforms(CCF HPC CHINA 2020, Virtual Conference)
 
