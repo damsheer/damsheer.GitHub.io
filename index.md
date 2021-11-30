@@ -53,23 +53,23 @@ I like hardcore programming and I really want to do some research on the system 
 ### Research projects
 * **AutoTSMM (Author)**
 
-Designed AutoTSMM, which is used to build high-Performance tall-and-skinny matrix multiplication on all mainstream CPUs. AutoTSMM can speed up convolution layers in real-world deep learning applications, and the performance is competitive with Intel OneMKL and outperforms all conventional GEMM implementationss. This work is published in IEEE ISPA 2021.
+Designed AutoTSMM, which is used to build high-performance tall-and-skinny matrix multiplication on mainstream CPUs. AutoTSMM can speed up convolution layers in real-world deep learning applications, and the performance is competitive with Intel OneMKL and outperforms all conventional GEMM implementations. This work was published in IEEE ISPA 2021.
 
 * **OpenBLAS (Contributor)**
 
-Optimized pre-pack matrix-matrix multiplication and triangular solve with multiple right-hand-sides(TRSM) on ARMv8 and X86 platforms. OpenBLAS is one of the most famous open-source BLAS library.
+Optimized pre-pack matrix-matrix multiplication and triangular solve with multiple right-hand-sides(TRSM) on ARMv8 and X86 platforms. OpenBLAS is one of the most famous open-source BLAS libraries.
 
 * IAAT (Contributor)
 
-Launched the project and investigated JIT tools for small GEMM. IAAT is a template-driven just-in-time(JIT) small GEMM framework targeting CPUs. This work is accepted by IEEE ICPADS 2021.
+Launched the project and investigated JIT tools for small GEMM. IAAT is a template-driven just-in-time(JIT) small GEMM framework targeting CPUs. This work was accepted by IEEE ICPADS 2021.
 
 * **OpenVML (Co-author)**
 
-OpenVML is a vector math library. I'm responsible for optimizing the math functions on ARMv8 platform. The experimental results show that OpenVML achieve a performance improvement of 66% to 540% compared with C standard library function, and a performance improvement of 12% to 90% compared with Arm Performance Libraries(ARMPL). The paper "Fast Computation of Elementary Functions on ARM Platform" was accepted by HPC China 2020.
+Optimized small-scale FFT, and contributed to multi-threading and 2D-FFT. AutoFFT is a template-based FFT codes auto-generation framework that contributes to many Chinese vendors' libraries. This work was published in SC'19, TPDS'20, and was accepted by HPCC'21.
 
 * **AutoFFT (Contributor)**
 
-Optimized small-scale FFT on ARMv8 platforms, and did some works on multi-threading and 2D-FFT. AutoFFT is a template-based FFT codes auto-generation framework for ARM and X86 CPUs. This work is published in SC'19 and TPDS'20.
+Enhanced the math functions by manipulating IEEE 754 floating points. OpenVML is a vector mathematical library. It achieves an outstanding performance improvement compared to C standard library and ARMPL. This work was accepted by HPC China 2020.
 
 ### Patents
 * A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication (Pending)
@@ -96,6 +96,8 @@ ISPA'21: AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-a
 HPC-CHINA'20: OpenVML: Fast Computation of Elementary Functions on ARM Platforms(CCF HPC CHINA 2020, Virtual Conference)
 
 ### Services
+Student Volunteer at HPC CHINA 2021
+<br/>
 Student Volunteer at HPC CHINA 2020
 <br/>
 Student Volunteer at HPC CHINA 2019 
