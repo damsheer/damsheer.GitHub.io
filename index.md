@@ -14,10 +14,6 @@ layout: default
 
 I am currently a PhD student at the University of Utah, and supervised by Prof. [**P. (Saday) Sadayappan**](https://www.cs.utah.edu/~saday/){:target="_blank"}. I got my master degree from the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), and supervised by Prof. [**Yunquan Zhang**](https://dblp.org/pid/17/6660.html){:target="_blank"}. Please refer to my short [resume](https://www.chendi.gq/Chendi_Li_Resume.pdf){:target="_blank"}. If you have any questions, feel free to contact me by [email](mailto:lichendi.cs@gmail.com).
 
-Expected Graduation Date: 2022 Summer
-
-I am looking for a 2022 Fall Ph.D. program.
-
 ### Research Interests
 
 * High-Performance Computing
@@ -60,7 +56,7 @@ Designed AutoTSMM, which is used to build high-performance tall-and-skinny matri
 
 Optimized pre-pack matrix-matrix multiplication and triangular solve with multiple right-hand-sides(TRSM) on ARMv8 and X86 platforms. OpenBLAS is one of the most famous open-source BLAS libraries.
 
-* IAAT (Contributor)
+* **IAAT (Contributor)**
 
 Launched the project and investigated JIT tools for small GEMM. IAAT is a template-driven just-in-time(JIT) small GEMM framework targeting CPUs. This work was accepted by IEEE ICPADS 2021.
 
