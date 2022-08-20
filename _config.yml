@@ -31,5 +31,5 @@ nav:
 #   link: "Publication"
 #
 
-gems:
-  - jekyll-redirect-from
+#gems:
+#  - jekyll-redirect-from
