@@ -33,3 +33,4 @@ nav:
 
 #gems:
 #  - jekyll-redirect-from
+theme: jekyll-theme-cayman
