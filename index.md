@@ -12,7 +12,7 @@ layout: default
 <!---
 -->
 
-I am currently a graduate student at the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), supervised by Prof. [**Yunquan Zhang**](https://dblp.org/pid/17/6660.html){:target="_blank"}. If you are busy, please refer to my short [resume](https://www.chendi.gq/Chendi_Li_Resume.pdf){:target="_blank"}. If you have any questions, feel free to contact me by [email](mailto:lichendi.cs@gmail.com).
+I am currently a PhD student at the University of Utah, and supervised by Prof. [**P. (Saday) Sadayappan**](https://www.cs.utah.edu/~saday/){:target="_blank"}. I got my master degree from the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), and supervised by Prof. [**Yunquan Zhang**](https://dblp.org/pid/17/6660.html){:target="_blank"}. Please refer to my short [resume](https://www.chendi.gq/Chendi_Li_Resume.pdf){:target="_blank"}. If you have any questions, feel free to contact me by [email](mailto:lichendi.cs@gmail.com).
 
 Expected Graduation Date: 2022 Summer
 
@@ -22,9 +22,10 @@ I am looking for a 2022 Fall Ph.D. program.
 
 * High-Performance Computing
 <br/>
-* Sparse/Dense Matrix Multiplication
+* Matrix/Tensor Optimization
 <br/>
-* Deep Learning for HPC and HPC for Deep Learning
+* High-Performance Machine learning
+
 
 <!---
 I like hardcore programming and I really want to do some research on the system area.
@@ -44,9 +45,9 @@ I like hardcore programming and I really want to do some research on the system 
 
 **[IEEE ISPA 2021]** **Chendi Li**, Haipeng Jia, Hang Cao, et al. **AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs**([presentation](https://www.youtube.com/watch?v=NjIla6zXRHM){:target="_blank"})([link](http://www.cloud-conf.net/ispa2021/proc/pdfs/ISPA-BDCloud-SocialCom-SustainCom2021-3mkuIWCJVSdKJpBYM7KEKW/264600a159/264600a159.pdf){:target="_blank"},[arxiv](https://arxiv.org/abs/2208.08088){:target="_blank"})
 
-**[IEEE ICPADS 2021]** Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, et al. **IAAT: An Input-Aware Adaptive Tuning framework for Small GEMM**
+**[IEEE ICPADS 2021]** Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, et al. **IAAT: An Input-Aware Adaptive Tuning framework for Small GEMM**([link](https://ieeexplore.ieee.org/document/9763771/){:target="_blank"})
 
-**[IEEE HPCC 2021]** Tun Chen, Haipeng Jia,  Zhihao Li, **Chendi Li**, Yunquan Zhang. **A Transpose-free Three-dimensional FFT Algorithm on ARM CPUs**
+**[IEEE HPCC 2021]** Tun Chen, Haipeng Jia,  Zhihao Li, **Chendi Li**, Yunquan Zhang. **A Transpose-free Three-dimensional FFT Algorithm on ARM CPUs**([link](https://www.researchgate.net/publication/360966539_A_Transpose-free_Three-dimensional_FFT_Algorithm_on_ARM_CPUs){:target="_blank"})
 
 **[CCF HPC China 2020]** **Chendi Li**, Guangting Zhang, Haipeng Jia. **Fast Computation of Elementary Functions on ARM Platforms**(in Chinese)
 
