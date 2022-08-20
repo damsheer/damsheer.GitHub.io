@@ -30,3 +30,6 @@ nav:
 # - name: "Publication"
 #   link: "Publication"
 #
+
+gems:
+  - jekyll-redirect-from
