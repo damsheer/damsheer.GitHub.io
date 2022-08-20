@@ -102,7 +102,9 @@ Student Volunteer at HPC CHINA 2019
 ---
 
 ## Non-academic life
+<!---
 I have a goal-driven personality. If I have a goal, I will do my best to achieve it. My undergraduate life lacks guidance, but I want to be an outstanding programmer. I put a lot of effort into coding projects and competitive programming to improve my coding skills. After graduation, I worked as a research assistant for the gap year and passed the National Graduate School Admissions Examination with an excellent score. After that, I participated in many scientific research projects and had the opportunity to do some independent research. Most importantly, I have always been eager to learn and challenge myself, so I believe I can become a Ph.D. candidate.
+-->
 
 ### Personal projects
 * **AutoSeed for Private tracker sites**
