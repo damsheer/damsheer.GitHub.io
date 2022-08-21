@@ -41,7 +41,7 @@ I like hardcore programming and I really want to do some research on the system 
 
 **[IEEE ISPA 2021]** **Chendi Li**, Haipeng Jia, Hang Cao, et al. **AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs**([presentation](https://www.youtube.com/watch?v=NjIla6zXRHM){:target="_blank"})([link](http://www.cloud-conf.net/ispa2021/proc/pdfs/ISPA-BDCloud-SocialCom-SustainCom2021-3mkuIWCJVSdKJpBYM7KEKW/264600a159/264600a159.pdf){:target="_blank"},[arxiv](https://arxiv.org/abs/2208.08088){:target="_blank"})
 
-**[IEEE ICPADS 2021]** Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, et al. **IAAT: An Input-Aware Adaptive Tuning framework for Small GEMM**([link](https://ieeexplore.ieee.org/document/9763771/){:target="_blank"})
+**[IEEE ICPADS 2021]** Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, et al. **IAAT: An Input-Aware Adaptive Tuning framework for Small GEMM**([link](https://www.researchgate.net/publication/362734227_IAAT_A_Input-Aware_Adaptive_Tuning_framework_for_Small_GEMM){:target="_blank"},[ieee](https://ieeexplore.ieee.org/document/9763771/){:target="_blank"})
 
 **[IEEE HPCC 2021]** Tun Chen, Haipeng Jia,  Zhihao Li, **Chendi Li**, Yunquan Zhang. **A Transpose-free Three-dimensional FFT Algorithm on ARM CPUs**([link](https://www.researchgate.net/publication/360966539_A_Transpose-free_Three-dimensional_FFT_Algorithm_on_ARM_CPUs){:target="_blank"})
 
