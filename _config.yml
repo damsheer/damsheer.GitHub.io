@@ -1,18 +1,18 @@
 title: Chendi Li
-url: "https://www.chendi.gq"
+url: "https://www.lichendi.top"
 #baseurl: "/researcher"
 
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 #ins_logo: "./ict.png"
-favicon: "./ict-removebg-preview.png"
+favicon: "./UU.webp"
 
 tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/Lurkrazy"
-#footer_text: "Page design by Ankit Sultana"
+footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
@@ -25,10 +25,12 @@ nav:
    link: "Chendi_Li_Resume.pdf"
 # - name: "CV"
 #   link: "Chendi_Li_CV.pdf"
-# - name: "Contact"
-#   link: "Contact"
+ - name: "Contact"
+   link: "Contact"
 # - name: "Publication"
 #   link: "Publication"
+# - name: "AutoTSMM"
+#   link: "AutoTSMM"
 #
 
 #gems:
