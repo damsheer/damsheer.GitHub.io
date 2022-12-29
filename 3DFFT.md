@@ -1,4 +1,4 @@
-### A Transpose-free Three-dimensional FFT Algorithm on ARM CPUs
+### A Transpose-free Three-dimensional FFT Algorithm
 
 **[IEEE HPCC 2021]** Tun Chen, Haipeng Jia,  Zhihao Li, **Chendi Li**, Yunquan Zhang. **A Transpose-free Three-dimensional FFT Algorithm on ARM CPUs**([link](https://www.researchgate.net/publication/360966539_A_Transpose-free_Three-dimensional_FFT_Algorithm_on_ARM_CPUs){:target="_blank"})
 
