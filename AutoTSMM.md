@@ -10,4 +10,4 @@ Abstract: In recent years, general matrix-matrix multiplication with non-regular
 
 
 
-[![IMAGE ALT TEXT HERE](https://www.researchgate.net/profile/Chendi-Li-4/publication/357260903/figure/fig2/AS:11431281080988476@1661450186898/The-memory-access-for-computing-tall-and-skinny-matrix-multiply-multiplication_W640.jpg)](https://www.youtube.com/watch?v=NjIla6zXRHM)
+[![IMAGE ALT TEXT HERE](https://images4.imagebam.com/83/f2/7b/MEHR48O_o.png)](https://www.youtube.com/watch?v=NjIla6zXRHM)
