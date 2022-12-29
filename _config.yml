@@ -1,4 +1,4 @@
-title: Chendi Li
+title: Chendi Li (ML+System)
 url: "https://www.lichendi.top"
 #baseurl: "/researcher"
 
@@ -31,6 +31,10 @@ nav:
 #   link: "Publication"
  - name: "AutoTSMM"
    link: "AutoTSMM"
+ - name: "IAAT"
+   link: "IAAT"
+ - name: "3D-FFT"
+   link: "3DFFT"
 #
 
 #gems:
