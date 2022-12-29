@@ -12,4 +12,4 @@ In recent years, general matrix-matrix multiplication with non-regular-shaped in
 
 #### Presentation
 
-[![IMAGE ALT TEXT HERE](https://images4.imagebam.com/83/f2/7b/MEHR48O_o.png)](https://www.youtube.com/watch?v=NjIla6zXRHM)
+[![IMAGE ALT TEXT HERE](https://images4.imagebam.com/4a/fa/b7/MEHR4B6_o.png)](https://www.youtube.com/watch?v=NjIla6zXRHM){:target="_blank"}
