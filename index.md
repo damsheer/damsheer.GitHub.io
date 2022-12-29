@@ -66,10 +66,13 @@ Enhanced the math functions by manipulating IEEE 754 floating points. OpenVML is
 
 Optimized small-scale FFT, and contributed to multi-threading and 2D-FFT. AutoFFT is a template-based FFT codes auto-generation framework that contributes to many Chinese vendors' libraries. This work was published in SC'19, TPDS'20, and was accepted by HPCC'21.
 
+<!---
 ### Patents
 * A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication (Pending)
 
 This patent solves the poor performance caused by the excessively high ratio of the packing operation and the inability to reuse the data when the traditional general matrix-matrix multiplication calculates non-regular-shaped matrices.
+
+-->
 
 ### Awards & Honors
 2021: First-Class Scholarship of Chinese Academy of Sciences
