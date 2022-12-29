@@ -35,6 +35,8 @@ nav:
    link: "IAAT"
  - name: "3D-FFT"
    link: "3DFFT"
+ - name: "more"
+   link: "more"
 #
 
 #gems:
