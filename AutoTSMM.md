@@ -7,4 +7,7 @@ Abstract: In recent years, general matrix-matrix multiplication with non-regular
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=NjIla6zXRHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+[![IMAGE ALT TEXT HERE](https://www.researchgate.net/profile/Chendi-Li-4/publication/357260903/figure/fig2/AS:11431281080988476@1661450186898/The-memory-access-for-computing-tall-and-skinny-matrix-multiply-multiplication_W640.jpg)](https://www.youtube.com/watch?v=NjIla6zXRHM)
