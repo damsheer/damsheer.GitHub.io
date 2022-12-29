@@ -21,12 +21,6 @@ sass:
 nav:
  - name: "Home"
    link: "/"
- - name: "Resume"
-   link: "Chendi_Li_Resume.pdf"
-# - name: "CV"
-#   link: "Chendi_Li_CV.pdf"
- - name: "Contact"
-   link: "contact"
 # - name: "Publication"
 #   link: "Publication"
  - name: "AutoTSMM"
@@ -35,8 +29,14 @@ nav:
    link: "IAAT"
  - name: "3D-FFT"
    link: "3DFFT"
- - name: "more"
+ - name: "More"
    link: "more"
+# - name: "Resume"
+#   link: "Chendi_Li_Resume.pdf"
+# - name: "CV"
+#   link: "Chendi_Li_CV.pdf"
+ - name: "Contact"
+   link: "contact"
 #
 
 #gems:
