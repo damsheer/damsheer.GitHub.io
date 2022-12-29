@@ -10,9 +10,9 @@ favicon: "./UU.webp"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/Lurkrazy"
-footer_text: "Page design by Ankit Sultana"
+#footer: yes
+#footer_url: "https://github.com/Lurkrazy"
+#footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
