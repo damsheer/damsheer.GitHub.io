@@ -3,6 +3,7 @@ layout: default
 is_contact: true
 ---
 
+* Linkedin: [Chendi li](https://www.linkedin.com/in/chendi-li-709276167/)
 * Email: [lichendi.cs@gmail.com](mailto:lichendi.cs@gmail.com)
 * Phone: [+1 (801)209-7124](tel:+1-8012097124)(Text me please)
 
