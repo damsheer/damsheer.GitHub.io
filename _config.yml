@@ -26,11 +26,11 @@ nav:
 # - name: "CV"
 #   link: "Chendi_Li_CV.pdf"
  - name: "Contact"
-   link: "Contact"
+   link: "contact"
 # - name: "Publication"
 #   link: "Publication"
-# - name: "AutoTSMM"
-#   link: "AutoTSMM"
+ - name: "AutoTSMM"
+   link: "AutoTSMM"
 #
 
 #gems:
