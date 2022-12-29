@@ -4,7 +4,7 @@ is_contact: true
 ---
 
 * Email: [lichendi.cs@gmail.com](mailto:lichendi.cs@gmail.com)
-* Phone: [(+86)18801011904](tel:+86-18801011904)
+* Phone: [+1 (801)209-7124](tel:+1-8012097124)(Text me please)
 
 <!---
 * Phone: [US: +1 (413)931-1735](tel:+1-4139311735)
