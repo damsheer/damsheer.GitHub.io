@@ -23,6 +23,8 @@ nav:
    link: "/"
  - name: "Publication"
    link: "Publication"
+ - name: "Project"
+   link: "project"
 #  - name: "AutoTSMM"
 #    link: "AutoTSMM"
 #  - name: "IAAT"
