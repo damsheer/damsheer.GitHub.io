@@ -1,4 +1,4 @@
-title: Chendi Li (ML+System)
+title: Chendi Li (MLSys)
 url: "https://www.lichendi.top"
 #baseurl: "/researcher"
 
@@ -10,9 +10,9 @@ favicon: "./UU.webp"
 
 tracking_id: #
 
-#footer: yes
-#footer_url: "https://github.com/Lurkrazy"
-#footer_text: "Page design by Ankit Sultana"
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
