@@ -22,7 +22,7 @@ I am currently a PhD student at the University of Utah, and advised by Prof. [**
 
 ### Publications
 
-**[ICS 2024]** **Chendi Li**, Yufan Xu, Sina Mahdipour Saravani, Ponnuswamy Sadayappan.  
+**[ICS 2024]** **Chendi Li***, Yufan Xu*, Sina Mahdipour Saravani, Ponnuswamy Sadayappan.  
 <a href="https://dl.acm.org/doi/abs/10.1145/3650200.3656626" target="_blank"><b>Accelerated Auto-Tuning of GPU Kernels for Tensor Computations</b></a>. ICS 2024: 549-561.
 
 **[IEEE TPDS 2024]** Cunyang Wei, Haipeng Jia, Yunquan Zhang, Jianyu Yao, **Chendi Li**, Wenxuan Cao.  
