@@ -20,6 +20,22 @@ I am currently a PhD student at the University of Utah, and advised by Prof. [**
 <br/>
 * High-Performance Machine learning
 
+### Connect with me:
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://scholar.google.com/citations?user=your_scholar_id" target="_blank">
+    <img src="icons/scholar.png" alt="Google Scholar" style="width:30px;height:30px;">
+  </a>
+
+  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="icons/linkedin.webp" alt="LinkedIn" style="width:30px;height:30px;">
+  </a>
+
+  <a href="https://github.com/your-github-id" target="_blank">
+    <img src="icons/github.webp" alt="GitHub" style="width:30px;height:30px;">
+  </a>
+</div>
+
 
 ### Research projects
 * **AutoTSMM (Author)**
