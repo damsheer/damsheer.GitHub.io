@@ -10,7 +10,7 @@ layout: default
 <!---
 -->
 
-I am currently a PhD student at the University of Utah, and supervised by Prof. [**P. (Saday) Sadayappan**](https://www.cs.utah.edu/~saday/){:target="_blank"}. I got my master degree from the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences (CARCH, ICT, CAS), and supervised by Prof. [**Yunquan Zhang**](https://dblp.org/pid/17/6660.html){:target="_blank"}. Please refer to my short [resume](https://www.lichendi.top/Chendi_Li_Resume.pdf){:target="_blank"}. If you have any questions, feel free to contact me by [email](mailto:lichendi.cs@gmail.com).
+I am currently a PhD student at the University of Utah, and advised by Prof. [**P. (Saday) Sadayappan**](https://www.cs.utah.edu/~saday/){:target="_blank"}. I got my master degree from the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, and supervised by Prof. [**Yunquan Zhang**](https://dblp.org/pid/17/6660.html){:target="_blank"}. Please refer to my short [resume](https://www.lichendi.top/Chendi_Li_Resume.pdf){:target="_blank"}. If you have any questions, feel free to contact me by [email](mailto:lichendi.cs@gmail.com).
 
 ### Research Interests
 
@@ -20,30 +20,26 @@ I am currently a PhD student at the University of Utah, and supervised by Prof. 
 <br/>
 * High-Performance Machine learning
 
-
-<!---
-I like hardcore programming and I really want to do some research on the system area.
-
-## News
-
-2021.9.18 I found there are not many works on sparse matrix-matrix multiplication with fault-tolerant
-
-2021.9.16 Recently, I'm doing some research on optimizing sparse matrix-matrix multiplication.
-
-2021.7.13 It seems like SC is more likely to accept works about large-scale applications.
-
-2021.6.14 I finished my paper. I have a plan about submitting a pull request to OpenBLAS, but I don't have enough time to test for all target architecture.
--->
-
 ### Publications
 
-**[IEEE ISPA 2021]** **Chendi Li**, Haipeng Jia, Hang Cao, et al. **AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs**([presentation](https://www.youtube.com/watch?v=NjIla6zXRHM){:target="_blank"})([link](http://www.cloud-conf.net/ispa2021/proc/pdfs/ISPA-BDCloud-SocialCom-SustainCom2021-3mkuIWCJVSdKJpBYM7KEKW/264600a159/264600a159.pdf){:target="_blank"},[arxiv](https://arxiv.org/abs/2208.08088){:target="_blank"},[ieee](https://ieeexplore.ieee.org/document/9644705){:target="_blank"})
+**[ICS 2024]** **Chendi Li**, Yufan Xu, Sina Mahdipour Saravani, Ponnuswamy Sadayappan.  
+<a href="https://dl.acm.org/doi/abs/10.1145/3650200.3656626" target="_blank"><b>Accelerated Auto-Tuning of GPU Kernels for Tensor Computations</b></a>. ICS 2024: 549-561.
 
-**[IEEE ICPADS 2021]** Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, et al. **IAAT: An Input-Aware Adaptive Tuning framework for Small GEMM**([link](https://www.researchgate.net/publication/362734227_IAAT_A_Input-Aware_Adaptive_Tuning_framework_for_Small_GEMM){:target="_blank"},[ieee](https://ieeexplore.ieee.org/document/9763771/){:target="_blank"})
+**[IEEE TPDS 2024]** Cunyang Wei, Haipeng Jia, Yunquan Zhang, Jianyu Yao, **Chendi Li**, Wenxuan Cao.  
+<a href="https://ieeexplore.ieee.org/abstract/document/10607886/" target="_blank"><b>IrGEMM: An Input-Aware Tuning Framework for Irregular GEMM on ARM and X86 CPUs</b></a>. IEEE Trans. Parallel Distributed Syst. 35(9): 1672-1689 (2024).
 
-**[IEEE HPCC 2021]** Tun Chen, Haipeng Jia,  Zhihao Li, **Chendi Li**, Yunquan Zhang. **A Transpose-free Three-dimensional FFT Algorithm on ARM CPUs**([link](https://www.researchgate.net/publication/360966539_A_Transpose-free_Three-dimensional_FFT_Algorithm_on_ARM_CPUs){:target="_blank"})
+**[ICS 2023]** Tun Chen, Haipeng Jia, Yunquan Zhang, Kun Li, Zhihao Li, Xiang Zhao, Jianyu Yao, **Chendi Li**.  
+<a href="https://dl.acm.org/doi/abs/10.1145/3577193.3593735" target="_blank"><b>OpenFFT: An Adaptive Tuning Framework for 3D FFT on ARM Multicore CPUs</b></a>. ICS 2023: 398-409.
 
-**[CCF HPC China 2020]** **Chendi Li**, Guangting Zhang, Haipeng Jia. **Fast Computation of Elementary Functions on ARM Platforms**(in Chinese)
+**[HPCC 2021]** Tun Chen, Haipeng Jia, Zhihao Li, **Chendi Li**, Yunquan Zhang.  
+<a href="https://ieeexplore.ieee.org/abstract/document/9780864/" target="_blank"><b>A Transpose-free Three-dimensional FFT Algorithm on ARM CPUs</b></a>. HPCC/DSS/SmartCity/DependSys 2021: 1-8.
+
+**[ICPADS 2021]** Jianyu Yao, Boqian Shi, Chunyang Xiang, Haipeng Jia, **Chendi Li**, Hang Cao, Yunquan Zhang.  
+<a href="https://ieeexplore.ieee.org/abstract/document/9763771/" target="_blank"><b>IAAT: An Input-Aware Adaptive Tuning Framework for Small GEMM</b></a>. ICPADS 2021: 899-906.
+
+**[ISPA 2021]** **Chendi Li**, Haipeng Jia, Hang Cao, Jianyu Yao, Boqian Shi, Chunyang Xiang, Jinbo Sun, Pengqi Lu, Yunquan Zhang.  
+<a href="https://ieeexplore.ieee.org/abstract/document/9644705/" target="_blank"><b>AutoTSMM: An Auto-tuning Framework for Building High-Performance Tall-and-Skinny Matrix-Matrix Multiplication on CPUs</b></a>. ISPA/BDCloud/SocialCom/SustainCom 2021: 159-166.
+
 
 ### Research projects
 * **AutoTSMM (Author)**
@@ -66,24 +62,12 @@ Enhanced the math functions by manipulating IEEE 754 floating points. OpenVML is
 
 Optimized small-scale FFT, and contributed to multi-threading and 2D-FFT. AutoFFT is a template-based FFT codes auto-generation framework that contributes to many Chinese vendors' libraries. This work was published in SC'19, TPDS'20, and was accepted by HPCC'21.
 
-<!---
-### Patents
-* A run-time auto-tune method for non-regular-shaped matrix-matrix multiplication (Pending)
-
-This patent solves the poor performance caused by the excessively high ratio of the packing operation and the inability to reuse the data when the traditional general matrix-matrix multiplication calculates non-regular-shaped matrices.
-
--->
-
 ### Awards & Honors
 2021: First-Class Scholarship of Chinese Academy of Sciences
 <br/>
 2020: Second-class scholarship of Chinese Academy of Sciences
 <br/>
 2019: Third-Class Scholarship of Chinese Academy of Sciences
-<br/>
-2019: Outstanding intern in PerfXLab
-<br/>
-2015: Outstanding volunteer
 <br/>
 2015: Collegiate programming contest first prize
 
