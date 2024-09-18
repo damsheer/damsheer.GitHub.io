@@ -21,8 +21,8 @@ sass:
 nav:
  - name: "Home"
    link: "/"
-# - name: "Publication"
-#   link: "Publication"
+ - name: "Publication"
+   link: "Publication"
 #  - name: "AutoTSMM"
 #    link: "AutoTSMM"
 #  - name: "IAAT"
