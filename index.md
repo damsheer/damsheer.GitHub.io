@@ -42,7 +42,7 @@ Enhanced the math functions by manipulating IEEE 754 floating points. OpenVML is
 
 Optimized small-scale FFT, and contributed to multi-threading and 2D-FFT. AutoFFT is a template-based FFT codes auto-generation framework that contributes to many Chinese vendors' libraries. This work was published in SC'19, TPDS'20, and was accepted by HPCC'21.
 
-### Awards & Honors
+<!-- ### Awards & Honors
 2021: First-Class Scholarship of Chinese Academy of Sciences
 <br/>
 2020: Second-class scholarship of Chinese Academy of Sciences
@@ -62,6 +62,6 @@ Student Volunteer at HPC CHINA 2021
 <br/>
 Student Volunteer at HPC CHINA 2020
 <br/>
-Student Volunteer at HPC CHINA 2019 
+Student Volunteer at HPC CHINA 2019  -->
 
 ---
