@@ -16,7 +16,7 @@ I am currently a PhD student at the University of Utah, and supervised by Prof. 
 
 * High-Performance Computing
 <br/>
-* Matrix/Tensor Optimization
+* Tensor Optimization
 <br/>
 * High-Performance Machine learning
 
