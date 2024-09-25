@@ -25,4 +25,4 @@ Launched the project and investigated JIT tools for small GEMM. IAAT is a templa
 
 * **OpenVML (Contributor)**
   
-Enhancing the mathematical functions by manipulating IEEE 754 floating-point representations, OpenVML, a high-performance vector math library, demonstrated significant performance improvements over both the C standard library and ARMPL. This work was accepted and presented at HPC China 2020.
+Enhanced the mathematical functions by manipulating IEEE 754 floating-point representations, OpenVML, a high-performance vector math library, demonstrated significant performance improvements over both the C standard library and ARMPL. This work was accepted and presented at HPC China 2020.
