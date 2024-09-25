@@ -18,9 +18,9 @@ My research primarily focuses on software system design for accelerators. I am c
 
 * High-Performance Computing
 <br/>
-* Tensor Optimization
-<br/>
 * High-Performance Machine learning
+<br/>
+* Optimizing Tensor Computations
 
 ### Connect with me:
 
