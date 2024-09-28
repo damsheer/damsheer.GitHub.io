@@ -29,7 +29,7 @@ My research primarily focuses on software system design for accelerators. I am c
     <img src="icons/scholar.png" alt="Google Scholar" style="width:30px;height:30px;">
   </a>
 
-  <a href="https://www.linkedin.com/in/chendi-li-709276167/" target="_blank">
+  <a href="https://www.linkedin.com/in/chendi-li" target="_blank">
     <img src="icons/linkedin.webp" alt="LinkedIn" style="width:30px;height:30px;">
   </a>
 
