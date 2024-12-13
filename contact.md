@@ -3,8 +3,8 @@ layout: default
 is_contact: true
 ---
 
-* Linkedin: [Chendi li](https://www.linkedin.com/in/chendi-li)
-* Email: [lichendi.cs@gmail.com](mailto:lichendi.cs@gmail.com)
+* Linkedin: [Chendi li](https://www.linkedin.com/in/chendi-li/)
+* Email: [lichendi.cs@gmail.com](mailto:chendi.li@utah.edu)
 
 <!---
 * Phone: [US: +1 (413)931-1735](tel:+1-4139311735)

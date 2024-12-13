@@ -12,7 +12,7 @@ layout: default
 
 I am currently a PhD student at the University of Utah, and supervised by Prof. [**P. (Saday) Sadayappan**](https://www.cs.utah.edu/~saday/){:target="_blank"}. I got my master degree from the State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences, and supervised by Prof. [**Yunquan Zhang**](https://scholar.google.com/citations?user=Cxg_yNoAAAAJ&hl=en){:target="_blank"}.
 
-My research primarily focuses on software system design for accelerators. I am currently actively seeking internship opportunities in North America. Please refer to my [CV](https://www.lichendi.top/Chendi_Li_Resume.pdf){:target="_blank"}. If you have any questions, feel free to contact me by [email](mailto:lichendi.cs@gmail.com).
+My research primarily focuses on software system design for accelerators. If you have any questions, feel free to contact me by [email](mailto:chendi.li@utah.edu).
 
 ### Research Interests
 
